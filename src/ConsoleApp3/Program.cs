@@ -10,6 +10,7 @@ namespace ConsoleApp3
         public void Main(string[] args)
         {
             Console.WriteLine("Hi");
+            Console.WriteLine("Hi2");
         }
     }
 }
